@@ -1,0 +1,15 @@
+[
+  {
+    "id": "meeting-2026-11-20",
+    "title": "International Tamil Sabbath School",
+    "speaker": "Pastor Name Here",
+    "dateText": "20 நவம்பர் 2026 (சனி)",
+    "timeText": "இரவு 7:00 மணி - 8:30 மணி (IST)",
+    "startTimeIST": "2026-11-20T19:00:00+05:30",
+    "endTimeIST": "2026-11-20T20:30:00+05:30",
+    "meetingId": "812 3456 7890",
+    "passcode": "777777",
+    "zoomLink": "https://us02web.zoom.us/j/81234567890?pwd=examplepassword",
+    "flyerUrl": "https://raw.githubusercontent.com/ATtool/adventist-tamil-meetings/refs/heads/main/flyers/2026-11-28-prayer.jpg"
+  }
+]
